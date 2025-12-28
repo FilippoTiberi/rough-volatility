@@ -1,5 +1,5 @@
 # Rough Volatility Project  
-**Author: Filippo Tiberi — BSc Finance, Bocconi University**
+**Author: Filippo Tiberi & Alessandro Marazzi — BSc Finance, Bocconi University**
 
 This repository contains a lightweight implementation of key building blocks
 for **rough volatility** modelling:
